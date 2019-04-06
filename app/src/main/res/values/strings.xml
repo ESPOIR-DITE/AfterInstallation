@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AfterInstallation</string>
+    <string name="welcome_name">WELCOM TO MY APP</string>
+    <string name="name_field">NAME</string>
+    <string name="btn1">NEXT</string>
+    <string name="hint1">Espoir</string>
+</resources>
